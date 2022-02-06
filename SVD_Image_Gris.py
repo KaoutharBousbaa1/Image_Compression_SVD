@@ -121,16 +121,3 @@ print(r)
 
 #On affiche la compression via SVD pour la valeur de k trouvée qui permet de capter 95% de la variance:
 compression(M, r)
-
-
-
-
-
-
-
-
-
-
-
-
-
